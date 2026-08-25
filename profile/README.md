@@ -8,4 +8,4 @@
 
 | Batches | No. of Students | Number of Projects | Number of Publications | Number of Patents | 
 |:-------:|:---------------:|:------------------:|:----------------------:|:-----------------:|
-|   16    |     366         |      TBD           |         TBD            |      TBD          |
+|   19    |     426         |      426           |         TBD            |      TBD          |
